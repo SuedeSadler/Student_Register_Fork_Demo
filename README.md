@@ -7,8 +7,9 @@ offer them with current available course like IS, SD, ITTS, ITSA, CM. Client Req
 are the client requirements for the project “Course-Enrolment-App”.
 
 <h2>Tasks for Deployment:</h2>
-- Fork Repository 
+
+- Fork Repository
 - Deploy using ClickOnce
-- Create an Install Guide 
-- Create a User Manual 
+- Create an Install Guide
+- Create a User Manual
 - Add Manual to Download Zip 
