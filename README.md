@@ -6,10 +6,31 @@ in all his personal details along with their expression of interest in a course.
 offer them with current available course like IS, SD, ITTS, ITSA, CM. Client Requirements The following
 are the client requirements for the project “Course-Enrolment-App”.
 
+![image](https://github.com/SuedeSadler/Visitor_Register_Fork_Demo/assets/79953696/c7abecfc-d329-42e0-ad06-0cc7d76e9e0c)
+
+
 <h2>Tasks for Deployment:</h2>
 
 - Fork Repository
 - Deploy using ClickOnce
 - Create an Install Guide
 - Create a User Manual
-- Add Manual to Download Zip 
+- Add Manual to Download Zip
+
+<h2>Install Guide Requirements:</h2>
+
+-	System requirements
+-	Prerequisites (e.g., .NET Framework version)
+-	Step-by-step installation instructions
+-	Screenshots of the installation process
+
+<h2>User Manual Requirements:</h2>
+
+-	Overview of the application
+-	Features and functionalities
+-	How to perform common tasks
+-	FAQ section
+-	Contact information for support
+
+
+
