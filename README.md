@@ -13,16 +13,8 @@ are the client requirements for the project “Course-Enrolment-App”.
 
 - Fork Repository
 - Deploy using Publish wizard or ClickOnce
-- Create an Install Guide
 - Create a User Manual
 - Add Manual to Download Zip
-
-<h2>Install Guide Requirements:</h2>
-
--	System requirements
--	Prerequisites (e.g., .NET Framework version)
--	Step-by-step installation instructions
--	Screenshots of the installation process
 
 <h2>User Manual Requirements:</h2>
 
