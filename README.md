@@ -12,7 +12,7 @@ are the client requirements for the project “Course-Enrolment-App”.
 <h2>Tasks for Deployment:</h2>
 
 - Fork Repository
-- Deploy using ClickOnce
+- Deploy using Publish wizard or ClickOnce
 - Create an Install Guide
 - Create a User Manual
 - Add Manual to Download Zip
